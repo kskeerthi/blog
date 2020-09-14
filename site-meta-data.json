@@ -1,0 +1,9 @@
+{
+  "title": "Portfolio",
+  "siteUrl": "https://delog-w3layouts.netlify.com/",
+  "description": "Developer site to showcase the work",
+  "home": {
+    "title": "Hi! I'm Keerthi",
+    "description": "Mobile Web Developer, started with creating Websites using HTML, CSS ,Javascript and Angular, Gradually explored the space of creating component libraries and Design system using StencilJS and Flutter, considering these as my primary skills.Currently working on Python,Tensorflow and AI along with mobile web development which focuses my self to grow as full stack developer as they say 'If you're already a front-end developer, well, pretend you're also wearing a pirate hat'"
+  }
+}
